@@ -1,0 +1,48 @@
+html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    font-family: 'Pacifico', sans-serif !important;
+    background: url('./bg1.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: block;
+}
+h1 {
+    color: white !important;
+    font-size: 80px !important;
+}
+p {
+    color: white !important;
+    font-family: 'Source Sans Pro' !important;
+    text-align: center;
+}
+.background {
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.64);
+    /* opacity: 0.6; */
+    position: absolute;
+}
+.p2{
+    padding-top: 30px !important;
+    padding-bottom: 30px !important;
+}
+.yellow-text{
+    color: #FCB371 !important;
+}
+.back-btn {
+    border-color: transparent !important;
+    margin-top: 20px;
+    margin-right: 15px;
+}
+.reservation-button {
+    color: white !important;
+    background-color: #FCB371 !important;
+    border-color: #FCB371 !important;
+}
